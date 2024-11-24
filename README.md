@@ -24,6 +24,12 @@ Crie o arquivo *.env* copiando a partir do modelo *.env.example*
 ```sh
 cp .env.example .env
 ```
+
+Instale as dependências do projeto
+```sh
+composer install
+```
+
 Gere uma nova chave para o projeto
 ```sh
 php artisan key:generate
@@ -43,11 +49,6 @@ DB_PASSWORD=root
 Caso opte por executar o projeto via localhost (sem Docker), defina a variável **DB_HOST** conforme a seguir 
 ```dosini
 DB_HOST=127.0.0.1
-```
-
-Instale as dependências do projeto
-```sh
-composer install
 ```
 
 Suba o container do projeto
