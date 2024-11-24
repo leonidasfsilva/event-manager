@@ -91,7 +91,7 @@ Em cada uma das listagens existe uma coluna de Ações:
 - 🗑️ Excluir
 
 ### Associar um participante à uma sala ou espaço:
-Para associar um participante à uma sala ou espaço, clique no botão *Ver detalhes* 🔍, 
+Para associar um participante à uma sala ou espaço, acesse a listagen de participantes e clique no botão *Ver detalhes* 🔍 do participante desejado, 
 você será redirecionado para a tela de **Salas e espaços do participante durante o evento**.
 <br>
 Nesta tela você poderá definir as salas e espaços que serão utilizadas pelo participante nas etapas 1 e 2.
