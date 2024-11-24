@@ -15,6 +15,7 @@
                             <form action="{{ route('admin.event-stages.save') }}" method="post">
                                 {{csrf_field()}}
                                 <input type="hidden" name="participant_id" value="{{$participant->id}}">
+                                <h5 class="card-title">Participante</h5>
                                 @include('admin.participants._form-details')
                                 <button type="submit" class="btn btn-primary">Atualizar</button>
                                 <a href="{{route('app.root')}}" class="btn btn-secondary">Voltar</a>

@@ -11,7 +11,7 @@
                 <div class="col-md-12">
                     <div class="card">
                         <div class="card-header">
-                            <h5 class="card-title">Sala ID # {{ $coffeeSpace->id }}</h5>
+                            <h5 class="card-title">Espaço ID # {{ $coffeeSpace->id }}</h5>
                         </div>
                         <div class="card-body">
                             @include('admin.coffee-spaces._form')
