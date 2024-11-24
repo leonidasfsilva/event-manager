@@ -8,6 +8,11 @@
 
 ###### Sistema totalmente responsivo para dispositivos móveis (tablets e smartphones)
 
+> [!PRÉ-REQUISITOS]
+> Para a correta execução do sistema em seu ambiente, você deve ter os seguintes softwares já pré instalados em sua máquina
+> - Docker
+> - Composer
+
 
 ## Configurando o projeto
 Clone o projeto para o seu localhost
