@@ -110,3 +110,8 @@ selecione a aba correspondete no menu lateral (Salas de Eventos ou Espaços de C
 Ao abrir a listagem das salas, clique no botão *Ver detalhes* 🔍 da sala ou espaço que deseja visualizar os participantes.
 <br>
 Será exibida uma tela contendo as listagens dos participantes para as etapas 1 e 2 separadamente.
+
+> [!NOTE]
+> ### Você pode acessar o banco de dados da aplicação usando o PHPMyAdmin através da URL abaixo, as credenciais de acesso estão abaixo
+> 
+> ### [http://localhost:8888/](http://localhost:8888/)
