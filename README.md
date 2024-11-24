@@ -1,12 +1,12 @@
 # EventManager - Sistema para Gestão de Eventos
-###### Projeto esboço para sistema de gerenciamento de eventos, utilizando as stacks:
-
-- Laravel 10
-- Bootstrap 5
-- MySQL
-- Docker
-
-###### Sistema totalmente responsivo para dispositivos móveis (tablets e smartphones)
+> [!NOTE]
+> ###### Projeto esboço para sistema de gerenciamento de eventos, utilizando as stacks:
+> 
+> - Laravel 10
+> - Bootstrap 5
+> - MySQL
+> - Docker
+> ###### Sistema totalmente responsivo para dispositivos móveis (tablets e smartphones)
 
 > [!IMPORTANT]
 > ##### PRÉ-REQUISITOS
