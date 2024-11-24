@@ -10,7 +10,7 @@
 
 > [!IMPORTANT]
 > ##### PRÉ-REQUISITOS
-> ###### Para a correta execução do sistema em seu ambiente, você deve ter os seguintes softwares já pré instalados em sua máquina
+> ###### Para a correta execução do sistema em seu ambiente, você deve ter os seguintes softwares já pré instalados em sua máquina:
 > - Docker
 > - Composer
 
