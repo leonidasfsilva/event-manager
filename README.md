@@ -89,7 +89,7 @@ Em cada uma das listagens existe uma coluna de Ações:
 - 🔍 Ver detalhes
 - 📝 Editar 
 - 🗑️ Excluir
-<br>
+
 ### Associar um participante à uma sala ou espaço:
 Para associar um participante à uma sala ou espaço, clique no botão *Ver detalhes* 🔍, 
 você será redirecionado para a tela de **Salas e espaços do participante durante o evento**.
