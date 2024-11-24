@@ -80,7 +80,8 @@ Senha:
 ```
 ## Instruções para uso da aplicação
 
-A aplicação já possui dados mock cadastrados no banco de dados para uma dinâmica de utilização mais prática, porém você cadastrar novos dados, excluir ou modificar os dados já existentes.<br>
+A aplicação já possui dados mock cadastrados no banco de dados para uma dinâmica de utilização mais prática, 
+porém você pode cadastrar novos dados, excluir ou modificar os dados já existentes.<br>
 Cada aba do menu esquerdo possui uma listagem dos componentes do sistema (Participantes, Salas de Evento e Espaços de Café).
 <br>
 Em cada uma das listagens existe uma coluna de Ações (Ver detalhes, Editar e Excluir).
