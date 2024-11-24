@@ -115,3 +115,12 @@ Será exibida uma tela contendo as listagens dos participantes para as etapas 1 
 > ##### Você pode acessar o banco de dados da aplicação usando o PHPMyAdmin através da URL abaixo, as credenciais de acesso estão abaixo
 > 
 > ### [http://localhost:8888/](http://localhost:8888/)
+User:
+```dosini
+root
+```
+Senha:
+```dosini
+root
+```
+
