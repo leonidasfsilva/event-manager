@@ -84,7 +84,11 @@ A aplicação já possui dados mock cadastrados no banco de dados para uma dinâ
 porém você pode cadastrar novos dados, excluir ou modificar os dados já existentes.<br>
 Cada aba do menu esquerdo possui uma listagem dos módulos do sistema (Participantes, Salas de Evento e Espaços de Café).
 <br>
-Em cada uma das listagens existe uma coluna de Ações (Ver detalhes, Editar e Excluir).
+Em cada uma das listagens existe uma coluna de Ações:
+<br>
+- 🔍 Ver detalhes
+- 📝 Editar 
+- 🗑️ Excluir
 <br>
 ### Associar um participante à uma sala ou espaço:
 Para associar um participante à uma sala ou espaço, clique no botão *Ver detalhes* 🔍, 
